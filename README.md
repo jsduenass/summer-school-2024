@@ -7,6 +7,10 @@ The objective of the task is to minimize the time of inspection while capturing 
 An already working solution is provided as a part of the assignment.
 However, this example solution has poor performance and can be improved significantly.
 
+
+## Solution from team: numpy.random.rand()
+
+
 ## Installation
 
 The Summer School 2024 will use the [MRS UAV System](https://github.com/ctu-mrs/mrs_uav_system) contained in a [Apptainer](https://apptainer.org/) image (previously called Singularity).
